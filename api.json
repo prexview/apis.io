@@ -1,0 +1,36 @@
+{
+  "name": "PrexView",
+  "description": "Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG",
+  "url": "https://raw.githubusercontent.com/prexview/apis.io/master/api.json",
+  "image": "https://raw.githubusercontent.com/prexview/apis.io/master/prexview.png",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Transform",
+      "description": "Transfo JSON or XML data to a PDF, HTML or image document",
+      "image": "",
+      "baseURL": "https://api.prexview.com/v1/transform",
+      "humanURL": "https://api.prexview.com/v1/transform",
+      "properties": [],
+      "contact": []
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Daniel Osorio",
+      "email": "code@prexview.com"
+    }
+  ],
+  "tags": [
+    "pdf",
+    "json",
+    "xml",
+    "xml to pdf",
+    "json to pdf",
+    "transform",
+    "convertion"
+  ],
+  "include": [],
+  "created": "2017-04-19",
+  "modified": "2017-04-19"
+}
