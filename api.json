@@ -2,7 +2,7 @@
   "name": "PrexView",
   "description": "Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG",
   "url": "https://raw.githubusercontent.com/prexview/apis.io/master/api.json",
-  "image": "https://raw.githubusercontent.com/prexview/apis.io/master/prexview.png",
+  "image": "https://raw.githubusercontent.com/prexview/apis.io/master/icon.png",
   "specificationVersion": "0.14",
   "apis": [
     {
