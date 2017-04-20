@@ -6,8 +6,8 @@
   "specificationVersion": "0.14",
   "apis": [
     {
-      "name": "Transform",
-      "description": "Transfo JSON or XML data to a PDF, HTML or image document",
+      "name": "PrexView",
+      "description": "Transform JSON or XML data to PDF, HTML or image document",
       "image": "",
       "baseURL": "https://api.prexview.com/v1/transform",
       "humanURL": "https://api.prexview.com/v1/transform",
